@@ -48,5 +48,5 @@ node populate.js
 ```
 ## Screenshots
 
-![MySql + XAMMP Screen Shot](https://imgur.com/xfH0wKM)
+![MySql + Xampp](https://i.imgur.com/xfH0wKM.png)
 
