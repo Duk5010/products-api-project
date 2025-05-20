@@ -7,7 +7,7 @@ This Node.js script fetches product data from a public API and populates a MySQL
 - Fetches products from:  
   `https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json`
 - Connects to a MySQL database (via XAMPP)
-- Inserts products into a `Products` table — only if it's empty
+- Inserts products into a `Products` table (only if it's empty)
 
 ## 🚀 How to Run
 
